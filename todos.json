@@ -1,33 +1,48 @@
 {
   "todos": [
     {
-      "id": 1,
+      "id": "1",
       "task": "Learn React",
-      "done": true
+      "done": false
     },
     {
-      "id": 2,
+      "id": "2",
       "task": "Build a todo app",
-      "done": true
+      "done": false
     },
     {
-      "id": 3,
+      "id": "3",
       "task": "Learn Redux",
-      "done": true
+      "done": false
     },
     {
-      "id": 4,
+      "id": "4",
       "task": "Build a todo app with Redux",
       "done": true
     },
     {
-      "id": 5,
+      "id": "5",
       "task": "Learn Tailwind CSS",
       "done": true
     },
     {
-      "id": 6,
+      "id": "6",
       "task": "Build a todo app with Tailwind CSS",
+      "done": false
+    },
+    {
+      "id": "7",
+      "task": "Learn Next.js",
+      "done": true
+    },
+    {
+      "id": "8",
+      "task": "Build a todo app with Next.js",
+      "done": true
+    },
+    {
+      "id": "9",
+      "task": "Learn Firebase",
       "done": true
     }
   ]
